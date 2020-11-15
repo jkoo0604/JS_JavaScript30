@@ -14,3 +14,4 @@
 -   #8 HTML5 Canvas
 -   #9 Dev Tools (console.log etc)
 -   #10 Hole Shift to Check Multiple Checkboxes - added additional check for lastChecked for better behavior
+-   #11 Custom Video Player - drag update for ranges
