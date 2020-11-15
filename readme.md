@@ -9,3 +9,4 @@
 -   #3 CSS Variables - Add both event listeners in one loop
 -   #4 Array Cardio 1
 -   #5 Flex Panel Gallery
+-   #6 Type Ahead
