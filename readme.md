@@ -15,3 +15,6 @@
 -   #9 Dev Tools (console.log etc)
 -   #10 Hole Shift to Check Multiple Checkboxes - added additional check for lastChecked for better behavior
 -   #11 Custom Video Player - drag update for ranges
+-   #12 Key Sequence Detection
+-   #13 Slide in on Scroll
+-   #14 JS Reference vs Copying - added spread operators for nested objects
