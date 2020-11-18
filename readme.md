@@ -19,3 +19,6 @@
 -   #13 Slide in on Scroll
 -   #14 JS Reference vs Copying - added spread operators for nested objects
 -   #15 LocalStorage
+-   #16 Mouse Move Shadow
+-   #17 Sort Without Articles
+-   #18 Adding Up Times
